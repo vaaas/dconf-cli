@@ -1,0 +1,17 @@
+{
+    "name": "vas/dconf-cli",
+    "description": "PHP helper for the dconf cli binary",
+    "type": "library",
+    "license": "AGPL-v3.0",
+    "authors": [
+        {
+            "name": "Vasileios Pasialiokis",
+            "email": "pasivasi@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vas\\": ""
+        }
+    }
+}
